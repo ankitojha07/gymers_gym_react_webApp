@@ -1,6 +1,6 @@
 ## Gym fitness website using react js and styled components
 
-- ## Live: [Intrepide]()
+- ## Live: [GYMERS]()
 
 ---
 
